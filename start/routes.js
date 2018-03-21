@@ -15,6 +15,8 @@
 
 const Route = use('Route')
 
+Route.get('/', Hello)
+
 Route.group(() => {
   Route.post('books', 'BookController.store')
   Route.get('books', 'BookController.index')
