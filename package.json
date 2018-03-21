@@ -19,6 +19,7 @@
     "@adonisjs/ace": "^5.0.1",
     "@adonisjs/auth": "^3.0.4",
     "@adonisjs/bodyparser": "^2.0.2",
+    "@adonisjs/cli": "^4.0.4",
     "@adonisjs/cors": "^1.0.5",
     "@adonisjs/drive": "^1.0.1",
     "@adonisjs/fold": "^4.0.7",
