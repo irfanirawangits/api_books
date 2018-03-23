@@ -15,7 +15,7 @@
 
 const Route = use('Route')
 
-Route.get('/', () => 'Lalala Yeyeye')
+Route.get('/', () => 'Irfan Irawan Sukirman')
 
 Route.group(() => {
   Route.post('books', 'BookController.store')
